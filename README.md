@@ -1,3 +1,3 @@
-# El proposito de este repositorio es almacenar los proyectos de este modulo.
+# El proposito de este repositorio es almacenar los bolis de este bolo.
 DanielGonzález
 Cabezaboloo
